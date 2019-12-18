@@ -1,0 +1,12 @@
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\KSU.CIS300.Math.Expressions.UserInterface.resources
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\KSU.CIS300.Math.Expressions.Properties.Resources.resources
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\Homework-3-F19-Math-Expressions.csproj.GenerateResource.cache
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\Homework-3-F19-Math-Expressions.csproj.CoreCompileInputs.cache
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\bin\Debug\Homework-3-F19-Math-Expressions.exe.config
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\bin\Debug\Homework-3-F19-Math-Expressions.exe
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\bin\Debug\Homework-3-F19-Math-Expressions.pdb
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\bin\Debug\KansasStateUniversity.TreeViewer2.dll
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\Homework-3-F19-Math-Expressions.csproj.CopyComplete
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\Homework-3-F19-Math-Expressions.exe
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\Homework-3-F19-Math-Expressions.pdb
+C:\Users\Maxine\Source\Repos\homework-3-assignment-maxinet123\Homework-3-F19-Math-Expressions\obj\Debug\Homework-3-F19-Math-Expressions.csprojAssemblyReference.cache
